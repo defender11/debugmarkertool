@@ -1,0 +1,20 @@
+{
+  "name": "debugmarkertool",
+  "version": "1.0.0",
+  "description": "debugmarkertool - It helps to visually place markers for moving blocks.",
+  "main": "debugmarkertool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defender11/debugmarkertool.git"
+  },
+  "keywords": [],
+  "author": "LO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defender11/debugmarkertool/issues"
+  },
+  "homepage": "https://github.com/defender11/debugmarkertool#readme"
+}
